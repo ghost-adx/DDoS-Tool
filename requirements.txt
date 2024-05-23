@@ -1,4 +1,4 @@
-socket
-random
+sockets
+randoms
 threading
 requests
